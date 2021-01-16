@@ -9,7 +9,7 @@ namespace Methots
         //naming convention
         public void Add(Product product)
         {
-            Console.WriteLine("Sepete eklendi : . " + product.Name);
+            Console.WriteLine("Sepete eklendi :   . " + product.Name);
         }
 
        
